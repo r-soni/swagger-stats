@@ -906,11 +906,10 @@
         elemCPUChart.swschart('update');
 
         // Update Memory chart - TEMP
-        /*
         var elemMemChart = $('#sws_summ_cMem');
         this.buildTimeSeriesChartData(elemMemChart.swschart('getchartdata'),'sys',['heapUsed']);
         elemMemChart.swschart('update');
-        */
+        
 
         // Update stats timeline chart
         var elemTimelineChart = $('#sws_summ_cTl');

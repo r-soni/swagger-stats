@@ -103,8 +103,6 @@ var SWSLayout = function(){
                     }
                 },
 
-                // TEMP
-                /*
                 r4: {
                     columns: {
                         sws_summ_cMem  : {
@@ -130,7 +128,7 @@ var SWSLayout = function(){
                         }
                     }
                 },
-                */
+                
 
                 r5: {
                     columns: {
